@@ -1,0 +1,36 @@
+Stage 1: Pre-Production
+August 1 2020: Grouping
+August 3 2020: Brainstorming ideas
+August 4 2020: Members production setups (Programs needed)
+August 5 2020: Prototyping the app
+August 7 2020: Preparing presentation
+August 9 2020: Proposed the project
+
+Stage 2 Production
+August 13 2020: Design models
+August 15 2020: Design level
+August 17 2020: Design interface
+August 19 2020: Design codes
+August 21 2020: Finish 1st set character models
+August 23 2020: Finish 1st set Terrain models
+August 25 2020: Finish fundamental interfaces
+September 5 2020: Character controller code
+September 7 2020: Terrain placement
+September 9 2020: Add jumping to Character controller code
+September 11 2020: Add Enemy to the level
+September 13 2020: Add Projectile shooting to Enemy
+September 15 2020: Add Scenes Managements to the interfaces
+September 17 2020: Add login to the app
+September 19 2020: Add main menu to the app
+
+Stage 3 : Post production 
+September 23 2020: Character controller bug fixs
+September 25 2020: Enemy bug fixs
+September 27 2020: Scene Management bug fixs
+September 29 2020: Apply OOP to Character Controller #1
+October 1 2020: Apply OOP to the SceneManagement #1
+October 2 2020: Apply OOP to Character Controller #2
+October 3 2020: Apply OOP to Character Controller #3
+October 4 2020: Apply OOP to the SceneManagement #2
+October 5 2020: Apply OOP to the SceneManagement #3
+October 6 2020: Input Output with Login System
